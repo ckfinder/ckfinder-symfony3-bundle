@@ -3,6 +3,8 @@ CKFinder 3 Bundle for Symfony
 
 ---
 
+<h3 align="center"><img src="https://user-images.githubusercontent.com/803299/46882419-ec2dde00-ce4e-11e8-882b-6531588820c4.png"></h3>
+
 ### This package has been deprecated. Please use [ckfinder/ckfinder-symfony-bundle](https://github.com/ckfinder/ckfinder-symfony-bundle) instead.
 
 ---
